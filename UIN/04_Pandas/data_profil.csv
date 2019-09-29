@@ -1,0 +1,101 @@
+id,jenis_kelamin,divisi,umur
+1,Laki-laki,Customer Service,34
+2,Laki-laki,Data Engineer,26
+3,Laki-laki,Software Engineer,28
+4,Perempuan,Business Intelligence,21
+5,Perempuan,Software Engineer,21
+6,Laki-laki,Business Intelligence,28
+7,Perempuan,Software Engineer,21
+8,Laki-laki,Customer Service,22
+9,Perempuan,Business Intelligence,21
+10,Laki-laki,Data Science,21
+11,Perempuan,Marketing,25
+12,Laki-laki,Customer Service,28
+13,Laki-laki,Data Engineer,25
+14,Laki-laki,Data Engineer,25
+15,Laki-laki,Data Engineer,33
+16,Perempuan,Software Engineer,33
+17,Laki-laki,Software Engineer,23
+18,Laki-laki,Software Engineer,23
+19,Laki-laki,Customer Service,31
+20,Perempuan,Customer Service,23
+21,Laki-laki,Software Engineer,30
+22,Laki-laki,Customer Service,35
+23,Perempuan,Software Engineer,34
+24,Laki-laki,Software Engineer,28
+25,Perempuan,Data Engineer,32
+26,Laki-laki,Business Intelligence,34
+27,Perempuan,Data Science,34
+28,Laki-laki,Customer Service,34
+29,Laki-laki,Business Intelligence,32
+30,Laki-laki,Software Engineer,25
+31,Perempuan,Marketing,28
+32,Laki-laki,Software Engineer,30
+33,Laki-laki,Software Engineer,26
+34,Perempuan,Data Science,23
+35,Perempuan,Data Science,26
+36,Laki-laki,Data Engineer,23
+37,Perempuan,Customer Service,27
+38,Laki-laki,Marketing,24
+39,Laki-laki,Business Intelligence,35
+40,Perempuan,Data Engineer,24
+41,Laki-laki,Software Engineer,29
+42,Laki-laki,Software Engineer,25
+43,Laki-laki,Software Engineer,34
+44,Perempuan,Software Engineer,22
+45,Laki-laki,Data Engineer,35
+46,Laki-laki,Marketing,25
+47,Laki-laki,Software Engineer,31
+48,Laki-laki,Business Intelligence,23
+49,Laki-laki,Business Intelligence,29
+50,Laki-laki,Data Science,35
+51,Laki-laki,Marketing,35
+52,Laki-laki,Business Intelligence,25
+53,Laki-laki,Business Intelligence,32
+54,Laki-laki,Customer Service,23
+55,Laki-laki,Software Engineer,24
+56,Laki-laki,Software Engineer,23
+57,Perempuan,Marketing,34
+58,Laki-laki,Business Intelligence,28
+59,Perempuan,Software Engineer,22
+60,Laki-laki,Software Engineer,26
+61,Perempuan,Data Science,33
+62,Perempuan,Business Intelligence,22
+63,Laki-laki,Software Engineer,26
+64,Laki-laki,Business Intelligence,33
+65,Laki-laki,Business Intelligence,33
+66,Perempuan,Marketing,26
+67,Laki-laki,Data Engineer,28
+68,Laki-laki,Data Engineer,33
+69,Laki-laki,Customer Service,32
+70,Perempuan,Software Engineer,29
+71,Laki-laki,Business Intelligence,33
+72,Perempuan,Business Intelligence,22
+73,Laki-laki,Data Science,24
+74,Laki-laki,Software Engineer,29
+75,Perempuan,Software Engineer,23
+76,Laki-laki,Software Engineer,27
+77,Laki-laki,Business Intelligence,26
+78,Laki-laki,Data Engineer,23
+79,Perempuan,Data Engineer,25
+80,Perempuan,Data Science,33
+81,Laki-laki,Data Science,30
+82,Laki-laki,Customer Service,27
+83,Laki-laki,Business Intelligence,25
+84,Laki-laki,Software Engineer,32
+85,Laki-laki,Customer Service,34
+86,Laki-laki,Software Engineer,29
+87,Laki-laki,Business Intelligence,22
+88,Laki-laki,Marketing,24
+89,Perempuan,Marketing,24
+90,Laki-laki,Business Intelligence,23
+91,Laki-laki,Data Engineer,27
+92,Laki-laki,Customer Service,27
+93,Perempuan,Data Science,27
+94,Laki-laki,Data Engineer,28
+95,Laki-laki,Customer Service,34
+96,Perempuan,Customer Service,23
+97,Laki-laki,Software Engineer,32
+98,Perempuan,Business Intelligence,28
+99,Perempuan,Software Engineer,25
+100,Perempuan,Software Engineer,29
